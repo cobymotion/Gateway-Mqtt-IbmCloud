@@ -24,8 +24,8 @@ def on_message(client, userdata, message):
     sendWatsonIbm(str(message.payload.decode("utf-8")))
  
 if __name__=='__main__':
-    url = 'https://teonq3.messaging.internetofthings.ibmcloud.com/api/v0002/device/types/sensores/devices/rpbroker/events/temperatura'
-    headers = {'Authorization': 'Basic dXNlLXRva2VuLWF1dGg6NTF6KEJ5alA/aF9GdDk1bms2','Content-Type': 'application/json'}
+    url = 'https://xxxx.messaging.internetofthings.ibmcloud.com/api/v0002/device/types/xxxx/devices/xxxx/events/temperatura'
+    headers = {'Authorization': 'Basic ','Content-Type': 'application/json'}
     # Datos del Moquitto
     host = '127.0.0.1' 
     topic = 'temperatura'
