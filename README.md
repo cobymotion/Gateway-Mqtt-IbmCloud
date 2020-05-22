@@ -3,5 +3,5 @@
 
  ## Autores 
 
- Jose Luis Cobian Hermosillo
- Juan Luis Rivera Carbajal
+ - Jose Luis Cobian Hermosillo
+ - Juan Luis Rivera Carbajal
